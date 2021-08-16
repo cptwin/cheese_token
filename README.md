@@ -1,6 +1,7 @@
 # cheese_token
 Learning Solidity, creating ERC-20 Cheese Token
 
+Followed [Dapp University Video Tutorial](https://www.youtube.com/watch?v=XyoFT4QkoL4)
 
 ### Deploy Token on Remix 
 
